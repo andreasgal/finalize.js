@@ -1,5 +1,5 @@
 finalize
-==============================
+========
 
 Node module to register a garbage collector callback for objects
 

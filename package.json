@@ -1,9 +1,8 @@
 {
   "name": "finalize",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Garbage collector callbacks for JavaScript/node.",
   "main": "finalize.js",
-  "readme": "README.md",
   "scripts": {
     "test": "node --expose-gc test.js"
   },
