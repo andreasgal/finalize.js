@@ -1,8 +1,7 @@
-# finalize
+# finalize -- Node module to register a garbage collector callback for objects
+==============================
 
-Node module to register a garbage collector callback for objects.
-
-Usage:
+## USAGE
 
 ```javascript
 var finalize = require('finalize');
@@ -17,4 +16,3 @@ obj = null;
 global.gc();
 // the previous line should trigger the callback above
 ```
-
