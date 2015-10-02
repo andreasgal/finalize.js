@@ -1,6 +1,6 @@
 {
   "name": "finalize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Garbage collector callbacks for JavaScript/node.",
   "main": "finalize.js",
   "readme": "README.md",
